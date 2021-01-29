@@ -3,7 +3,7 @@ package BankApps;
 public class SavingDeposit {
 	public static void savingdeposit() {
 		String name = "Star Ji";
-		double amount = 0;
+		double amount = 1000;
 		double balance = 50000;
 
 		if (amount <= 0) {
