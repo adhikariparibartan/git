@@ -19,6 +19,11 @@ public class MainBank {
 		Withdraw withdraw_amount = new Withdraw();
 		withdraw_amount.withdraw();
 		
+		System.out.println(" ");
+		//loan
+		System.out.println("Loan Calcualtion");
+		Loan.monthlyPayment();
+		
 	}
 
 }
