@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi i am ram
 =======
 i am ram
 >>>>>>> 69cbd13 (hi)
+=======
+i am ram ia not shayam
+>>>>>>> d194d21 (h)
