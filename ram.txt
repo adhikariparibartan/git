@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi i am ram
+=======
+i am ram
+>>>>>>> 69cbd13 (hi)
