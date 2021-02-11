@@ -18,3 +18,4 @@ And mobileno "6116116161" mobileNo
 And email "raj_raj2009@yahoo.com" email
 And enter password "abc" pass
 Then click loginbutton for custEntry
+#Thanks
